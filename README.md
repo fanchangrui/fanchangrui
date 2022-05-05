@@ -1,9 +1,9 @@
 ### Hi I'm Changrui Fan👋
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student.
 - 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about javascript and my projects on [1293707902@qq.com](mailto:1293707902@qq.com)
+- 💬 Ask me about js and my projects on [1293707902@qq.com](mailto:1293707902@qq.com)
 - ⭐ You may like [umi](https://github.com/umijs/umi) 、[hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) 、or [next.js](https://github.com/vercel/next.js)
 - ⚡ Fun fact: Data Analysis📊
 
