@@ -3,7 +3,7 @@
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about javascript, TypeScript and my projects on [1293707902@qq.com](mailto:1293707902@qq.com)
+- 💬 Ask me about javascript and my projects on [1293707902@qq.com](mailto:1293707902@qq.com)
 - ⭐ You may like [umi](https://github.com/umijs/umi) 、[hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) 、or [next.js](https://github.com/vercel/next.js)
 - ⚡ Fun fact: Data Analysis📊
 
@@ -20,11 +20,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-
 ### 关于我
 - [博客](https://hexo-fanchangrui.vercel.app/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanchangrui&show_icons=true&theme=radical)
-
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=fanchangrui&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanchangrui&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 :star: From [fanchangrui](https://github.com/fanchangrui)
